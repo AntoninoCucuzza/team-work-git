@@ -14,6 +14,26 @@ class BoardGamesSeeder extends Seeder
     public function run(): void
     {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         $newGame = new BoardGames();
         $newGame->title = 'risiko';
         $newGame->description = 'risichio';
