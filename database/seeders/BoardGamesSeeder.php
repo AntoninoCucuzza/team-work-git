@@ -13,6 +13,50 @@ class BoardGamesSeeder extends Seeder
      */
     public function run(): void
     {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         $new_board = new BoardGames();
         $new_board->name = 'Forza 4';
         $new_board->description = 'Lorem ipsum';
