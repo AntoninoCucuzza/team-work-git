@@ -18,5 +18,6 @@ class BoardGamesSeeder extends Seeder
         $new_board->description = 'Lorem ipsum';
         $new_board->image = 'Ciao';
         $new_board->price = '30';
+        $new_board->save();
     }
 }
