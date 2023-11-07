@@ -34,11 +34,16 @@ class BoardGamesSeeder extends Seeder
 
 
 
-        $newGame = new BoardGames();
+
+
+
+
+
+        /*    $newGame = new BoardGames();
         $newGame->title = 'risiko';
         $newGame->description = 'risichio';
         $newGame->image = 'rischioso';
         $newGame->price = '$420';
-        $newGame->save();
+        $newGame->save(); */
     }
 }
